@@ -19,3 +19,4 @@ P : V1 -> s1 V | #,
 $ python3 example.py example.txt 
 
 ```
+More examples can be found in 'ContextFreeGrammars/test'
