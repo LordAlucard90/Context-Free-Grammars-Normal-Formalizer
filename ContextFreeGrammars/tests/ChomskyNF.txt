@@ -1,0 +1,11 @@
+V: S,A,B,C,D,E,F
+SIGMA: a,b,d,e,f
+S: S
+P:
+	S -> ABCDEF,
+	A -> aCa | a,
+	B -> bB | b,
+	C -> D,
+	D -> d,
+	E -> e,
+	F -> f

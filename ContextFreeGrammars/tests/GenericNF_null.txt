@@ -1,0 +1,9 @@
+V :
+	S,A,B
+SIGMA:
+	a,b,#
+S: S
+P :
+	S -> ASA | aB | b,
+	A -> B,
+	B -> b | #

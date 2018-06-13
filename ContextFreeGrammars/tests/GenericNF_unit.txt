@@ -1,0 +1,12 @@
+V :
+	S,X,Y,Z,M,N
+SIGMA:
+	a,b
+S: S
+P :
+	S -> XY,
+	X -> a,
+	Y -> Z | b,
+	Z -> M,
+	M -> N,
+	N -> a
